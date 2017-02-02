@@ -1,0 +1,12 @@
+[submodule "models/walkthisway"]
+	path = models/walkthisway
+	url = https://github.com/barliant/walkthisway.git
+[submodule "models/Pedestrian_model"]
+	path = models/Pedestrian_model
+	url = https://github.com/barliant/Pedestrian_model.git
+[submodule "models/yangzhoucss-roads"]
+	path = models/yangzhoucss-roads
+	url = https://github.com/barliant/yangzhoucss-roads.git
+[submodule "models/yangzhoucss-pedestrian-model-krasnow"]
+	path = models/yangzhoucss-pedestrian-model-krasnow
+	url = https://github.com/barliant/yangzhoucss-pedestrian-model-krasnow.git
