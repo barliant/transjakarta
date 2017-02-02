@@ -1,3 +1,7 @@
+### Local ignores
+# nlogo temporary files while being edited in IDE
+.*.nlogo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
