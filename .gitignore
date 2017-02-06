@@ -1,6 +1,7 @@
 ### Local ignores
 # nlogo temporary files while being edited in IDE
 .*.nlogo
+models/crowded-station/*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
